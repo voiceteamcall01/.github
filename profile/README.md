@@ -5,6 +5,7 @@
        <img src="https://voiceteamcall.com/wp-content/uploads/2023/09/Logo-Full-Color-359x70.png" alt="Logo" />
   </a>
 </p>
+<span align="center">We are a strategic partner of our clients, providing "Contact Center" and "BPO" services, with the aim of generating well-being</span>
 <h3 align="center">Connect with us:</h3>
 <p align="center">
   <a href="mailto:jobs@voiceteam.com" target="blank" title="Instagram">
